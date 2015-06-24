@@ -18,8 +18,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "hashmap": "2.0.*"
-  }
+  ]
 }
