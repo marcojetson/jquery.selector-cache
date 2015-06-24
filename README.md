@@ -36,6 +36,11 @@ Yes.
 - 500000 iterations
 </small>
 
+Is it faster in real life?
+--------------------------
+
+No idea.
+
 TODO
 ----
 
