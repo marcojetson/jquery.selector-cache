@@ -1,0 +1,25 @@
+{
+  "name": "jquery.selector-cache",
+  "version": "1.0.0",
+  "authors": [
+    "marco <marcojetson@gmail.com>"
+  ],
+  "description": "Speed up jQuery code by caching selectors",
+  "main": "jquery.selector-cache.js",
+  "keywords": [
+    "jquery",
+    "cache"
+  ],
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/marcojetson/jquery.selector-cache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "hashmap": "2.0.*"
+  }
+}
